@@ -1,0 +1,54 @@
+*{
+    padding: 2px;
+    margin: 0;
+    font-family:  Arial, sans-serif;
+    border: border-box;
+}
+
+.chanllg{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 100px;
+    justify-content: space-evenly;
+}
+
+.chanllg1{
+    color: aquamarine;
+    
+}
+
+.popu{
+    color: blanchedalmond;
+}
+
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+.sect{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.bbx h3{
+    color: red;
+}
+
+.quick{
+    background-color: burlywood;
+    display: flex;
+}
+
+.quick1{
+    color: brown;
+}
+ .hr{
+    color: black;
+ }
+
